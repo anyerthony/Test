@@ -1,0 +1,16 @@
+
+body {
+    padding: 20px 200px;
+    }
+header{
+    background-color: rgba(128, 238, 174, 0.76) ;
+    padding: 15px;
+    border: solid 1px green;
+    border-radius: 10px;
+}
+h1{
+    margin: 0px;
+}
+.main p {
+    margin-bottom: 0px;
+}
