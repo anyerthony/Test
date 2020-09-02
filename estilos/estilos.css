@@ -7,6 +7,7 @@ header{
     padding: 15px;
     border: solid 1px green;
     border-radius: 10px;
+    box-shadow: 1px 1px 3px 1px black;
 }
 h1{
     margin: 0px;
